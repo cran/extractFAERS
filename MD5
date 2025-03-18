@@ -1,0 +1,12 @@
+e792d7ddab778c2386ecc11c768f9cdb *DESCRIPTION
+bc63f310198f829f7cc97178d5edb3d3 *NAMESPACE
+3677e7c32e8251ac57874e084c9100a4 *R/extract1PSFAERS.R
+24d0b957b4eab41ad5751ae5086776a0 *R/filterbyoccpFAERS.R
+6d5984d9453c3b114582377d9cd62ac8 *R/timetodayFAERS.R
+0ee429758061521b8cf959b3e99adf8f *inst/extdata/faers_ascii_2015q1_example.zip
+b2c4171685b7fc7d6f46ba073cbf2854 *inst/extdata/faers_ascii_2015q2_example.zip
+edfeecb9f5f8c243b5e2d79df930b5d3 *inst/extdata/faers_ascii_2015q3_example.zip
+f3b5eb748ff472ed9044e24854d6c2ca *inst/extdata/faers_ascii_2015q4_example.zip
+30cacf3d541374c7b869d689935821eb *man/extract1PSFAERS.Rd
+cd23d6827a5c2e0de422499bae173d80 *man/filterbyoccpFAERS.Rd
+868013892889ccf0f3b9fc8fa4e1f68a *man/timetodayFAERS.Rd
