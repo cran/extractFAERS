@@ -2,6 +2,7 @@
 #'
 #' This function processes the FDA Adverse Event Reporting System (FAERS) data
 #' to extract reports where only a single drug was administered.
+#' Only data after 2014Q3 can be directly extracted with this package
 #'
 #' @name extract1PSFAERS
 #' @param workingdir Character vector. The directory containing the decompressed FAERS ASCII folders.
@@ -107,16 +108,22 @@ extract_FAERS_data <- function(workingdir = NULL,usetempdir=FALSE, corenum = NUL
     temp_dir<-tempdir()
     for (zip_file in zip_files) {
       message("Extracting:", basename(zip_file), "\n")
-      unzip(zip_file, exdir = temp_dir, overwrite = TRUE)
-      message("Extraction complete. All files are now in:", temp_dir, "\n")
+      unzip(zip_file, exdir = paste0(temp_dir,"/unzip/"), overwrite = TRUE)
     }
+    txt_files <- list.files(paste0(temp_dir,"/unzip/"), pattern = "\\.txt$", full.names = TRUE, recursive = TRUE)
+    dir.create(paste0(temp_dir,"/ascii/"), showWarnings = FALSE)
+    file.copy(txt_files, file.path(paste0(temp_dir,"/ascii/"), basename(txt_files)), overwrite = TRUE)
+    message("Extraction complete. All files are now in:", temp_dir, "\n")
   }else{
-    temp_dir<-NULL
+    temp_dir<-tempdir()
     for (zip_file in zip_files) {
       message("Extracting:", basename(zip_file), "\n")
-      unzip(zip_file, exdir = workingdir, overwrite = TRUE)
-      message("Extraction complete. All files are now in:", workingdir, "\n")
+      unzip(zip_file, exdir = paste0(temp_dir,"/unzip/"), overwrite = TRUE)
     }
+    txt_files <- list.files(paste0(temp_dir,"/unzip/"), pattern = "\\.txt$", full.names = TRUE, recursive = TRUE)
+    dir.create(paste0(workingdir,"/ascii/"), showWarnings = FALSE)
+    file.copy(txt_files, file.path(paste0(workingdir,"/ascii/"), basename(txt_files)), overwrite = TRUE)
+    message("Extraction complete. All files are now in:", workingdir, "\n")
     }
 
 
@@ -183,6 +190,10 @@ extract_FAERS_data <- function(workingdir = NULL,usetempdir=FALSE, corenum = NUL
     dir.create(demo1ps_folder, showWarnings = FALSE)
     dir.create(indi1ps_folder, showWarnings = FALSE)
     dir.create(reac1ps_folder, showWarnings = FALSE)
+    print(index1ps_folder)
+    print(demo1ps_folder)
+    print(indi1ps_folder)
+    print(reac1ps_folder)
   #------ Extract reports with a single drug from DRUG files ------
   doc <- drug_folder
   fs <- list.files(doc)
@@ -211,49 +222,72 @@ extract_FAERS_data <- function(workingdir = NULL,usetempdir=FALSE, corenum = NUL
     message(paste("Finished processing DRUG file", i, "\n"))
   }
 
-  cl <- makeCluster(corenum)
   message("Extracting DRUG data, This may take minitues to hours\n")
+  cl <- makeCluster(corenum)
   parLapply(cl, startfile:endfile, extract1PS_Drug)
   stopCluster(cl)
-
+# i=1
   #------ Extract corresponding DEMO, INDI, and REAC data based on index ------
-  extract_data_by_index <- function(folder_name, output_folder) {
-    doc <- folder_name
-    indexdoc <- index1ps_folder
-    targetsdoc <- output_folder
+  extract1PS_DEMO<- function(i) {
+    fs <- list.files(demo_folder)
+    fsindex <- list.files(index1ps_folder)
+    message(paste("Processing", demo_folder, "file", i, "... This may take minitues to hours.\n"))
+    DEMOs <- read.csv(paste(demo_folder, fs[i], sep = ""), sep = "$", row.names = NULL)
+    INDEX <- read.csv(paste(index1ps_folder, fsindex[i], sep = ""), sep = "$", row.names = NULL)
+    # Filter records based on primaryid in the index file
+    DEMOs <- DEMOs[DEMOs$primaryid %in% INDEX$primaryid,]
+    write.table(DEMOs, paste(demo1ps_folder, fs[i], sep = ""), sep = "$", row.names = FALSE, quote = FALSE)
+    message(paste("Finished processing", demo_folder, "file", i, "\n"))
+  }
 
-    extract_func <- function(i) {
-      fs <- list.files(doc)
-      fsindex <- list.files(indexdoc)
+    cl <- makeCluster(corenum)
+    message(paste("Extracting", demo_folder, "data, This may take minitues to hours\n"))
+    parLapply(cl, startfile:endfile,extract1PS_DEMO)
+    stopCluster(cl)
+  # Process DEMO, INDI, and REAC data
 
-      message(paste("Processing", folder_name, "file", i, "... This may take minitues to hours.\n"))
-
-      DEMOs <- read.csv(paste(doc, fs[i], sep = ""), sep = "$", row.names = NULL)
-      INDEX <- read.csv(paste(indexdoc, fsindex[i], sep = ""), sep = "$", row.names = NULL)
-
+    extract1PS_INDI<- function(i) {
+      fs <- list.files(indi_folder)
+      fsindex <- list.files(index1ps_folder)
+      message(paste("Processing", indi_folder, "file", i, "... This may take minitues to hours.\n"))
+      DEMOs <- read.csv(paste(indi_folder, fs[i], sep = ""), sep = "$", row.names = NULL)
+      INDEX <- read.csv(paste(index1ps_folder, fsindex[i], sep = ""), sep = "$", row.names = NULL)
       # Filter records based on primaryid in the index file
       DEMOs <- DEMOs[DEMOs$primaryid %in% INDEX$primaryid,]
-
-      write.table(DEMOs, paste(targetsdoc, fs[i], sep = ""), sep = "$", row.names = FALSE, quote = FALSE)
-
-      message(paste("Finished processing", folder_name, "file", i, "\n"))
+      write.table(DEMOs, paste(indi1ps_folder, fs[i], sep = ""), sep = "$", row.names = FALSE, quote = FALSE)
+      message(paste("Finished processing", indi_folder, "file", i, "\n"))
     }
 
     cl <- makeCluster(corenum)
-    message(paste("Extracting", folder_name, "data, This may take minitues to hours\n"))
-    parLapply(cl, startfile:endfile, extract_func)
+    message(paste("Extracting", indi_folder, "data, This may take minitues to hours\n"))
+    parLapply(cl, startfile:endfile,extract1PS_INDI)
     stopCluster(cl)
-  }
 
-  # Process DEMO, INDI, and REAC data
-  extract_data_by_index(demo_folder, demo1ps_folder)
-  extract_data_by_index(indi_folder, indi1ps_folder)
-  extract_data_by_index(reac_folder, reac1ps_folder)
+    extract1PS_REAC<- function(i) {
+      fs <- list.files(reac_folder)
+      fsindex <- list.files(index1ps_folder)
+      message(paste("Processing", reac_folder, "file", i, "... This may take minitues to hours.\n"))
+      DEMOs <- read.csv(paste(reac_folder, fs[i], sep = ""), sep = "$", row.names = NULL)
+      INDEX <- read.csv(paste(index1ps_folder, fsindex[i], sep = ""), sep = "$", row.names = NULL)
+      # Filter records based on primaryid in the index file
+      DEMOs <- DEMOs[DEMOs$primaryid %in% INDEX$primaryid,]
+      write.table(DEMOs, paste(reac1ps_folder, fs[i], sep = ""), sep = "$", row.names = FALSE, quote = FALSE)
+      message(paste("Finished processing", reac_folder, "file", i, "\n"))
+    }
+
+    cl <- makeCluster(corenum)
+    message(paste("Extracting", reac_folder, "data, This may take minitues to hours\n"))
+    parLapply(cl, startfile:endfile, extract1PS_REAC)
+    stopCluster(cl)
+
+
 
   # Apply additional data processing functions if needed
   if(onlydoextract==FALSE){
   message("Filter data by reporter occupation")
+    if(usetempdir==TRUE){
   filteres<-filter_by_occp_FAERS(workingdir = workingdir,temp_dir=temp_dir, occpextract = occpextract,savetoRData = TRUE)
+    }else{filteres<-filter_by_occp_FAERS(workingdir = workingdir,temp_dir=NULL, occpextract = occpextract,savetoRData = TRUE)}
   message("\nDone")
   message("\nChange all time unit to day")
   if(usetempdir==FALSE){
@@ -273,5 +307,3 @@ To standardize time units to days, use 'time_to_day_FAERS()' in the same directo
     }
   return(dirname(index1ps_folder))
 }
-
-

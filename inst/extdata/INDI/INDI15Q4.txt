@@ -1,0 +1,500 @@
+primaryid$caseid$indi_drug_seq$indi_pt
+100035549$10003554$1$Relapsing-remitting multiple sclerosis
+100035549$10003554$2$Muscle spasms
+100035549$10003554$3$Muscle spasms
+100045052$10004505$1$Glaucoma
+100048337$10004833$1$Non-small cell lung cancer
+100052907$10005290$1$Schizophrenia, disorganised type
+100052907$10005290$33$Electroconvulsive therapy
+100052907$10005290$35$Schizophrenia, disorganised type
+100052907$10005290$36$Schizophrenia, disorganised type
+100052907$10005290$38$Schizophrenia, disorganised type
+100052907$10005290$41$Schizophrenia, disorganised type
+100052907$10005290$43$Prophylaxis
+100052907$10005290$44$Schizophrenia, disorganised type
+100055094$10005509$1$Multiple sclerosis
+100058883$10005888$1$Androgen deficiency
+100058883$10005888$4$Product used for unknown indication
+100058883$10005888$5$Ventricular extrasystoles
+100058883$10005888$6$Presyncope
+100058883$10005888$7$Ventricular tachycardia
+100058883$10005888$8$Cardiac failure
+100058883$10005888$10$Ventricular extrasystoles
+100058883$10005888$11$Hyperlipidaemia
+100058883$10005888$12$Product used for unknown indication
+100058883$10005888$13$Depression
+100058883$10005888$14$Product used for unknown indication
+100058883$10005888$15$Product used for unknown indication
+100058883$10005888$16$Product used for unknown indication
+100058883$10005888$17$Product used for unknown indication
+100058883$10005888$18$Product used for unknown indication
+100058883$10005888$19$Product used for unknown indication
+100058883$10005888$20$Atrial fibrillation
+100058883$10005888$21$Product used for unknown indication
+100058883$10005888$22$Product used for unknown indication
+100058883$10005888$23$Product used for unknown indication
+100058883$10005888$24$Product used for unknown indication
+1000602218$10006022$1$HER-2 positive breast cancer
+100064083$10006408$1$Bone marrow conditioning regimen
+100064083$10006408$2$Bone marrow conditioning regimen
+100064083$10006408$3$Prophylaxis against graft versus host disease
+100064083$10006408$4$Prophylaxis
+100064083$10006408$5$Prophylaxis against graft versus host disease
+100064083$10006408$6$Prophylaxis against graft versus host disease
+100064292$10006429$1$Cystic fibrosis
+100064292$10006429$3$Cystic fibrosis lung
+100064292$10006429$4$Pancreatic insufficiency
+100064292$10006429$5$Hypovitaminosis
+100064292$10006429$6$Cystic fibrosis lung
+100064292$10006429$7$Depression
+100064292$10006429$8$Cystic fibrosis lung
+100064292$10006429$9$Product used for unknown indication
+100064292$10006429$10$Gastrooesophageal reflux disease
+100064292$10006429$11$Hypovitaminosis
+100064292$10006429$12$Cystic fibrosis lung
+100064292$10006429$13$Cystic fibrosis lung
+100064292$10006429$14$Rhinitis allergic
+100064292$10006429$15$Rhinitis allergic
+100064292$10006429$16$Asthma exercise induced
+100064292$10006429$17$Product used for unknown indication
+100064292$10006429$19$Headache
+100064292$10006429$20$Depression
+100064634$10006463$1$Atrial fibrillation
+100064634$10006463$3$Product used for unknown indication
+100064634$10006463$4$Product used for unknown indication
+100064634$10006463$5$Product used for unknown indication
+100064634$10006463$6$Product used for unknown indication
+100064634$10006463$7$Product used for unknown indication
+100064634$10006463$8$Product used for unknown indication
+100064634$10006463$9$Product used for unknown indication
+100064634$10006463$11$Product used for unknown indication
+100064634$10006463$12$Product used for unknown indication
+100064634$10006463$13$Product used for unknown indication
+100064634$10006463$14$Product used for unknown indication
+100064634$10006463$15$Product used for unknown indication
+100064634$10006463$16$Product used for unknown indication
+100064634$10006463$17$Product used for unknown indication
+100064634$10006463$18$Ill-defined disorder
+100069422$10006942$1$Chronic kidney disease
+100074598$10007459$1$Multiple sclerosis
+100074598$10007459$2$Multiple sclerosis
+100080046$10008004$1$Colorectal cancer metastatic
+100080046$10008004$2$Colorectal cancer metastatic
+100080748$10008074$1$Immune thrombocytopenic purpura
+100103463$10010346$1$Macular degeneration
+100103463$10010346$2$Neovascular age-related macular degeneration
+100103463$10010346$3$Ventricular tachycardia
+100103463$10010346$7$Nephrolithiasis
+100103463$10010346$8$Diabetes mellitus
+100103463$10010346$16$Diabetes mellitus
+100103733$10010373$1$Multiple sclerosis
+100103733$10010373$2$Multiple sclerosis
+100103733$10010373$3$Multiple sclerosis
+1001058218$10010582$1$Chronic lymphocytic leukaemia
+1001058218$10010582$2$Chronic lymphocytic leukaemia
+1001058218$10010582$15$Prophylaxis
+1001058218$10010582$16$Prophylaxis
+1001058218$10010582$17$Prophylaxis
+1001058218$10010582$23$Prophylaxis
+100108813$10010881$1$Rheumatoid arthritis
+100108813$10010881$3$Hypertension
+100108813$10010881$4$Prophylaxis against gastrointestinal ulcer
+100108813$10010881$5$Hypertension
+100108813$10010881$6$Hypothyroidism
+100109019$10010901$1$HIV infection
+100109019$10010901$2$Cytomegalovirus infection
+100109019$10010901$3$Cytomegalovirus infection
+100109019$10010901$4$Cytomegalovirus infection
+100109019$10010901$5$Cytomegalovirus infection
+100109019$10010901$6$Cytomegalovirus infection
+100109019$10010901$7$Cytomegalovirus infection
+100109019$10010901$8$Cytomegalovirus infection
+100109019$10010901$9$Atypical mycobacterial infection
+100109019$10010901$10$Atypical mycobacterial infection
+100109019$10010901$11$Atypical mycobacterial infection
+100109019$10010901$12$Prophylaxis
+100109019$10010901$13$Prophylaxis
+100109019$10010901$14$Prophylaxis
+100109019$10010901$15$Atypical mycobacterial infection
+100109019$10010901$16$Antifungal prophylaxis
+100109019$10010901$17$Antifungal prophylaxis
+100109019$10010901$18$HIV infection
+100109019$10010901$19$HIV infection
+100109019$10010901$20$Atypical mycobacterial infection
+100109019$10010901$21$Atypical mycobacterial infection
+100109019$10010901$22$Osteoporosis
+100109019$10010901$23$HIV infection
+100109019$10010901$24$Hyperlipidaemia
+100109019$10010901$25$Lymphadenitis
+100109019$10010901$26$Lymphadenitis
+100109019$10010901$27$Prophylaxis
+100109019$10010901$28$Prophylaxis
+100109019$10010901$29$Prophylaxis
+100109019$10010901$30$Pneumonia
+100109019$10010901$31$Pneumonia
+100109019$10010901$32$Pneumonia
+100109019$10010901$33$Infection
+100109019$10010901$34$Infection
+100109019$10010901$35$Infection
+100109019$10010901$36$Lymphadenitis
+100109019$10010901$37$Lymphadenitis
+100109019$10010901$38$Lymphadenitis
+100109019$10010901$39$Antifungal prophylaxis
+100109019$10010901$40$Syphilis
+100109019$10010901$41$Syphilis
+100109019$10010901$42$Hypotension
+100109019$10010901$43$Cytomegalovirus viraemia
+100109019$10010901$44$Constipation prophylaxis
+100109019$10010901$45$Dizziness
+100109019$10010901$46$Oesophageal candidiasis
+100109019$10010901$47$Seborrhoeic dermatitis
+100109019$10010901$48$Lymphadenitis
+100109019$10010901$49$Lymphadenitis
+100109019$10010901$50$Lymphadenitis
+100109019$10010901$51$Oesophageal candidiasis
+100109019$10010901$52$Oesophageal candidiasis
+100109019$10010901$53$Oesophageal candidiasis
+100109019$10010901$54$Diarrhoea
+100109019$10010901$55$Nausea
+100109019$10010901$56$Back pain
+100109019$10010901$57$Periarthritis
+100109019$10010901$58$Periarthritis
+100109019$10010901$59$Periarthritis
+100109019$10010901$60$Periarthritis
+100109019$10010901$61$Periarthritis
+100109019$10010901$62$Back pain
+100109019$10010901$63$Back pain
+100109019$10010901$64$Back pain
+100109019$10010901$65$Back pain
+100109019$10010901$66$Back pain
+100109019$10010901$67$Diarrhoea
+100109019$10010901$68$Nausea
+100109019$10010901$69$Insomnia
+100109019$10010901$70$Insomnia
+100109019$10010901$71$Nausea
+100109019$10010901$72$Insomnia
+100109019$10010901$73$Lymphadenitis
+100109019$10010901$74$Cytomegalovirus viraemia
+100109019$10010901$75$Vitamin supplementation
+100109019$10010901$76$Headache
+100109019$10010901$77$Headache
+100109019$10010901$78$Headache
+100109019$10010901$79$Prophylaxis
+100109019$10010901$80$Prophylaxis
+100109019$10010901$81$Prophylaxis
+100109019$10010901$82$Diarrhoea
+100109019$10010901$83$Diarrhoea
+100109019$10010901$84$Prophylaxis
+100109019$10010901$85$Cytopenia
+100109019$10010901$86$Cytopenia
+100109019$10010901$87$Cytopenia
+100109019$10010901$88$Cytopenia
+100109019$10010901$89$Cytopenia
+100109019$10010901$90$Cytopenia
+100109019$10010901$91$Cytopenia
+100109019$10010901$92$Cytopenia
+100109019$10010901$93$Mycobacterium avium complex infection
+100109019$10010901$94$Mycobacterium avium complex infection
+100109019$10010901$95$Lymphadenitis
+100109019$10010901$96$Lymphadenitis
+100109019$10010901$97$Headache
+100109019$10010901$98$Hyperlipidaemia
+100109019$10010901$99$Hyperuricaemia
+100109019$10010901$100$Diabetes mellitus
+100109019$10010901$101$Diabetic neuropathy
+100109019$10010901$102$Diabetic neuropathy
+100109019$10010901$103$Hyperlipidaemia
+100109019$10010901$104$Eosinophilic pustulosis
+100109019$10010901$105$Eosinophilic pustulosis
+100109019$10010901$106$Eosinophilic pustulosis
+100109019$10010901$107$Diabetes mellitus
+100109019$10010901$108$Sinusitis
+100109019$10010901$109$Sinusitis
+100109019$10010901$110$Sinusitis
+1001094713$10010947$1$Multiple sclerosis
+100118454$10011845$1$Cerebral thrombosis
+100118454$10011845$2$Seizure
+100118454$10011845$5$Dementia Alzheimer's type
+100118454$10011845$6$Sleep disorder
+100118454$10011845$7$Blood pressure abnormal
+100118454$10011845$8$Diabetes mellitus
+100118454$10011845$9$Blood pressure abnormal
+100118454$10011845$10$Blood pressure measurement
+100118454$10011845$11$Blood cholesterol abnormal
+100118454$10011845$12$Gastric disorder
+100118454$10011845$13$Diabetes mellitus
+1001212912$10012129$1$Multiple sclerosis
+1001212912$10012129$2$Multiple sclerosis
+1001212912$10012129$3$Multiple sclerosis
+1001212912$10012129$4$Multiple sclerosis
+100121562$10012156$1$Angina pectoris
+100125253$10012525$1$HIV infection
+100125253$10012525$2$HIV infection
+100134332$10013433$1$Crohn's disease
+100134332$10013433$5$Migraine
+100134562$10013456$1$Maternal exposure timing unspecified
+100144325$10014432$1$Product used for unknown indication
+100144325$10014432$2$Product used for unknown indication
+100144325$10014432$3$Product used for unknown indication
+100144325$10014432$4$Product used for unknown indication
+100144325$10014432$5$Product used for unknown indication
+100144325$10014432$6$Product used for unknown indication
+100144325$10014432$7$Product used for unknown indication
+100144325$10014432$8$Product used for unknown indication
+100144325$10014432$9$Product used for unknown indication
+100144325$10014432$10$Product used for unknown indication
+100144325$10014432$11$Product used for unknown indication
+100144325$10014432$12$Product used for unknown indication
+100144325$10014432$13$Product used for unknown indication
+100144325$10014432$14$Product used for unknown indication
+100144325$10014432$15$Product used for unknown indication
+100144325$10014432$16$Product used for unknown indication
+100144325$10014432$17$Product used for unknown indication
+100144325$10014432$18$Product used for unknown indication
+100144325$10014432$19$Product used for unknown indication
+100144325$10014432$20$Product used for unknown indication
+100144325$10014432$21$Product used for unknown indication
+100144325$10014432$22$Product used for unknown indication
+100144325$10014432$23$Product used for unknown indication
+100144325$10014432$25$Product used for unknown indication
+100144325$10014432$26$Product used for unknown indication
+100144325$10014432$27$Product used for unknown indication
+100144325$10014432$28$Product used for unknown indication
+100144325$10014432$29$Product used for unknown indication
+100144325$10014432$30$Product used for unknown indication
+100144325$10014432$31$Product used for unknown indication
+100144325$10014432$32$Product used for unknown indication
+100145333$10014533$1$Prostate cancer
+100145356$10014535$1$Prostate cancer
+100145356$10014535$2$Bone cancer
+100145356$10014535$3$Product used for unknown indication
+100145356$10014535$4$Product used for unknown indication
+100145356$10014535$5$Product used for unknown indication
+100145356$10014535$6$Product used for unknown indication
+100145356$10014535$7$Product used for unknown indication
+100145356$10014535$8$Product used for unknown indication
+100145356$10014535$9$Product used for unknown indication
+100145356$10014535$10$Product used for unknown indication
+100145356$10014535$11$Product used for unknown indication
+100145356$10014535$12$Product used for unknown indication
+100145356$10014535$13$Product used for unknown indication
+100145356$10014535$14$Product used for unknown indication
+100145356$10014535$15$Product used for unknown indication
+100147452$10014745$1$Blood cholesterol increased
+100147452$10014745$2$Blood triglycerides increased
+100147622$10014762$1$Blood cholesterol increased
+100147622$10014762$2$Blood triglycerides increased
+100150067$10015006$1$Breast cancer
+100150067$10015006$2$Breast cancer
+100150067$10015006$3$Breast cancer
+100151922$10015192$1$Peritoneal dialysis
+100151922$10015192$2$Peritoneal dialysis
+100154775$10015477$1$Osteoporosis
+100154775$10015477$2$Osteoporosis
+100154775$10015477$4$Osteoporosis
+100154775$10015477$5$Osteoporosis
+100154775$10015477$6$Osteoporosis
+100154775$10015477$7$Osteoporosis
+100154775$10015477$8$Blood cholesterol increased
+100154775$10015477$9$Thrombosis
+100154775$10015477$10$Hypertension
+100154775$10015477$11$Blood cholesterol increased
+100154934$10015493$1$Non-small cell lung cancer
+100157464$10015746$1$Contraception
+100158477$10015847$1$Osteoporosis
+100158477$10015847$2$Osteopenia
+100158477$10015847$3$Osteoporosis
+100158477$10015847$4$Osteoporosis
+100158675$10015867$1$Osteoporosis
+100158675$10015867$3$Osteoporosis
+100158675$10015867$4$Osteoporosis
+100161323$10016132$1$Blood cholesterol increased
+100161323$10016132$2$Blood triglycerides increased
+100161323$10016132$3$Hypertension
+100161722$10016172$1$Blood cholesterol increased
+100161722$10016172$2$Blood triglycerides increased
+100161722$10016172$3$Cardiovascular event prophylaxis
+100162332$10016233$1$Blood cholesterol increased
+100162332$10016233$2$Blood triglycerides increased
+100162332$10016233$3$Cardiac disorder
+100162599$10016259$1$Multiple sclerosis
+100166832$10016683$1$HIV infection
+100169128$10016912$1$Rheumatoid arthritis
+100169128$10016912$5$Product used for unknown indication
+1001711416$10017114$1$Rheumatoid arthritis
+1001711416$10017114$3$Rheumatoid arthritis
+1001711416$10017114$10$Premedication
+1001711416$10017114$17$Premedication
+100171792$10017179$1$Rheumatoid arthritis
+100171792$10017179$4$Fibromyalgia
+100171792$10017179$5$Depression
+100171792$10017179$6$Rheumatoid arthritis
+100171792$10017179$7$Hypersensitivity
+100171792$10017179$8$Gastrooesophageal reflux disease
+100171792$10017179$9$Abdominal pain upper
+100171792$10017179$10$Pain
+100171792$10017179$12$Pain
+100171792$10017179$14$Fatigue
+100171792$10017179$15$Fibromyalgia
+100173572$10017357$1$Product used for unknown indication
+100175533$10017553$1$Contraception
+100176572$10017657$1$Epilepsy
+100176572$10017657$2$Prophylaxis
+100176572$10017657$3$Prophylaxis
+100176734$10017673$1$Paroxysmal nocturnal haemoglobinuria
+1001770810$10017708$1$Paroxysmal nocturnal haemoglobinuria
+1001770810$10017708$2$Product used for unknown indication
+1001770810$10017708$3$Dyspnoea
+100178043$10017804$1$Haemolytic uraemic syndrome
+100178043$10017804$2$Prophylaxis
+100178043$10017804$3$Prophylaxis
+100178043$10017804$4$Product used for unknown indication
+100178043$10017804$5$Product used for unknown indication
+100178043$10017804$6$Product used for unknown indication
+100182652$10018265$1$Rheumatoid arthritis
+100184602$10018460$1$Peritoneal dialysis
+100184602$10018460$2$Peritoneal dialysis
+100188523$10018852$1$Blood cholesterol increased
+100188523$10018852$2$Blood triglycerides increased
+100189085$10018908$1$Atrial fibrillation
+100189085$10018908$2$Cerebrovascular accident prophylaxis
+100194444$10019444$1$Rheumatoid arthritis
+100194762$10019476$1$Blood cholesterol increased
+100194762$10019476$2$Blood triglycerides increased
+100201547$10020154$1$Multiple sclerosis
+100201547$10020154$2$Multiple sclerosis
+100201547$10020154$3$Multiple sclerosis
+100201547$10020154$4$Multiple sclerosis
+100201547$10020154$5$Multiple sclerosis
+100201547$10020154$6$Multiple sclerosis
+100201547$10020154$7$Multiple sclerosis
+100201547$10020154$8$Multiple sclerosis
+100205902$10020590$1$Soft tissue infection
+100205902$10020590$2$Ex-tobacco user
+100206402$10020640$1$HIV infection
+100206402$10020640$2$HIV infection
+100206402$10020640$3$HIV infection
+100206402$10020640$4$HIV infection
+100208274$10020827$1$Foetal exposure timing unspecified
+100208784$10020878$1$Breast cancer metastatic
+100208784$10020878$2$Breast cancer metastatic
+100208784$10020878$3$Bone disorder
+100208784$10020878$4$Blood cholesterol abnormal
+100208784$10020878$5$Hypothyroidism
+1002143219$10021432$1$Renal cell carcinoma
+100216472$10021647$1$Peritoneal dialysis
+100216472$10021647$2$Peritoneal dialysis
+100216872$10021687$1$Peritoneal dialysis
+100216872$10021687$2$Peritoneal dialysis
+100216882$10021688$1$Peritoneal dialysis
+100216882$10021688$2$Peritoneal dialysis
+100223876$10022387$1$Osteoporosis prophylaxis
+100223876$10022387$2$Osteopenia
+100223876$10022387$3$Osteoporosis
+100223876$10022387$4$Neoplasm malignant
+100223876$10022387$5$Osteoporosis
+100223876$10022387$6$Osteoporosis
+100223876$10022387$7$Osteoporosis
+100224574$10022457$1$Osteoporosis prophylaxis
+100224574$10022457$3$Osteoporosis prophylaxis
+1002255110$10022551$1$Haemolytic uraemic syndrome
+1002255110$10022551$3$Product used for unknown indication
+100230475$10023047$10$Constipation
+100231182$10023118$1$Neovascular age-related macular degeneration
+100231182$10023118$2$Neovascular age-related macular degeneration
+100231182$10023118$3$Product used for unknown indication
+100238452$10023845$1$Scleroderma associated digital ulcer
+100238452$10023845$3$Scleroderma associated digital ulcer
+100240456$10024045$1$Paroxysmal nocturnal haemoglobinuria
+100240456$10024045$4$Anticoagulant therapy
+100240456$10024045$5$Paroxysmal nocturnal haemoglobinuria
+100240456$10024045$6$Product used for unknown indication
+100240594$10024059$1$Status epilepticus
+100242673$10024267$1$Neuropathy peripheral
+100243092$10024309$1$Asthma
+100243092$10024309$2$Ischaemic stroke
+100248543$10024854$1$Peritoneal dialysis
+100249756$10024975$1$Osteoporosis
+100249756$10024975$2$Osteoporosis
+100249973$10024997$1$Osteopenia
+100249973$10024997$2$Osteoporosis prophylaxis
+100249973$10024997$3$Osteoporosis prophylaxis
+1002527211$10025272$1$Pulmonary arterial hypertension
+100257902$10025790$1$Chlamydial infection
+100257902$10025790$2$Chlamydial infection
+100264223$10026422$1$Psoriatic arthropathy
+100271906$10027190$1$Osteoporosis
+100271906$10027190$4$Osteoporosis
+100272103$10027210$1$Chronic obstructive pulmonary disease
+100272113$10027211$13$Chronic obstructive pulmonary disease
+100272515$10027251$1$Osteoporosis
+100272515$10027251$4$Osteoporosis
+100272617$10027261$1$Osteoporosis
+100272617$10027261$2$Osteoporosis
+100272628$10027262$1$Multiple sclerosis
+100272628$10027262$2$Multiple sclerosis
+100273193$10027319$1$Non-small cell lung cancer
+100273193$10027319$2$Lung carcinoma cell type unspecified stage IV
+100273193$10027319$4$Vitamin D decreased
+100273193$10027319$5$Reflux gastritis
+100273193$10027319$6$Pain
+100273193$10027319$7$Product used for unknown indication
+100273193$10027319$8$Product used for unknown indication
+100275275$10027527$1$Nerve injury
+100275275$10027527$2$Neuralgia
+100275275$10027527$3$Hypertension
+100275275$10027527$4$Pain
+100275275$10027527$5$Antiinflammatory therapy
+100280193$10028019$1$Paroxysmal nocturnal haemoglobinuria
+100280193$10028019$4$Paroxysmal nocturnal haemoglobinuria
+100280193$10028019$5$Anaemia
+100280193$10028019$6$Type 2 diabetes mellitus
+100280193$10028019$7$Haemolytic anaemia
+100280193$10028019$8$Paroxysmal nocturnal haemoglobinuria
+100280193$10028019$9$Product used for unknown indication
+100280193$10028019$10$Product used for unknown indication
+100281346$10028134$1$Osteoporosis
+100281346$10028134$2$Osteoporosis
+1002862613$10028626$1$Stress
+1002862613$10028626$2$Anxiety
+1002862613$10028626$4$Blood pressure abnormal
+1002873812$10028738$1$Acute coronary syndrome
+1002873812$10028738$2$Stent placement
+1002873812$10028738$3$Cerebrovascular accident
+100289773$10028977$1$Pancreatitis chronic
+100289773$10028977$2$Antiemetic supportive care
+100289773$10028977$3$Analgesic therapy
+100289773$10028977$4$Antipyresis
+100289773$10028977$5$Product used for unknown indication
+100290238$10029023$1$Multiple sclerosis
+100290238$10029023$2$Muscle spasticity
+100290238$10029023$7$Pain
+100290238$10029023$12$Product used for unknown indication
+100290238$10029023$13$Pain
+100290238$10029023$14$Contraception
+100290238$10029023$15$Product used for unknown indication
+100291255$10029125$1$Acute coronary syndrome
+100291255$10029125$2$Stent placement
+100292215$10029221$1$Acute coronary syndrome
+100292215$10029221$2$Myocardial infarction
+1002930010$10029300$1$Arterial repair
+1002930010$10029300$2$Anticoagulant therapy
+1002930010$10029300$3$Cerebrovascular accident
+100309803$10030980$1$Diabetic retinopathy
+100309803$10030980$2$Diabetic retinal oedema
+100309803$10030980$3$Diabetic eye disease
+100309803$10030980$4$Diabetic retinopathy
+100309803$10030980$5$Diabetic retinal oedema
+100313586$10031358$1$Plasma cell myeloma
+100313586$10031358$2$Plasma cell myeloma
+100313586$10031358$3$Stem cell transplant
+100313586$10031358$4$Plasma cell myeloma
+100313586$10031358$5$Product used for unknown indication
+100313586$10031358$6$Clostridium difficile infection
+100316336$10031633$1$Neuropathy peripheral
+100316336$10031633$4$Hypertension
+100316336$10031633$5$Hypertension
+100316336$10031633$18$Pain
+100316336$10031633$19$Wheezing
+100316336$10031633$29$Hypersensitivity
+100316474$10031647$1$Contraception

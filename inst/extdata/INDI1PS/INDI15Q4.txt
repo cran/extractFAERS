@@ -1,0 +1,5 @@
+primaryid$caseid$indi_drug_seq$indi_pt
+1000602218$10006022$1$HER-2 positive breast cancer
+100080748$10008074$1$Immune thrombocytopenic purpura
+100157464$10015746$1$Contraception
+100166832$10016683$1$HIV infection

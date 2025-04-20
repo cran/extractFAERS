@@ -1,0 +1,42 @@
+primaryid$caseid$pt$drug_rec_act
+1000602218$10006022$Acute coronary syndrome$NA
+1000602218$10006022$Anaemia$NA
+100080748$10008074$Cough$NA
+100080748$10008074$Decreased appetite$NA
+100080748$10008074$Depressed mood$NA
+100080748$10008074$Dyspnoea$NA
+100080748$10008074$Fall$NA
+100080748$10008074$Fatigue$NA
+100080748$10008074$Hot flush$NA
+100080748$10008074$Lower respiratory tract infection$NA
+100080748$10008074$Lung disorder$NA
+100080748$10008074$Malaise$NA
+100080748$10008074$Pain$NA
+100080748$10008074$Productive cough$NA
+100080748$10008074$Sleep disorder$NA
+100080748$10008074$Tremor$NA
+100080748$10008074$Weight decreased$NA
+100080748$10008074$Wheezing$NA
+100114532$10011453$Caesarean section$NA
+100114532$10011453$Congenital central nervous system anomaly$NA
+100114532$10011453$Hypoglycaemia$NA
+100114532$10011453$Hypopituitarism foetal$NA
+100114532$10011453$Maternal drugs affecting foetus$NA
+100114532$10011453$Renal aplasia$NA
+100153712$10015371$Abdominal discomfort$NA
+100153712$10015371$Dry skin$NA
+100157464$10015746$Injury$NA
+100157464$10015746$Pain$NA
+100157464$10015746$Uterine perforation$NA
+100157464$10015746$Vaginal haemorrhage$NA
+100166832$10016683$Drug interaction$NA
+100166832$10016683$Dyslipidaemia$NA
+100166832$10016683$Gastrointestinal toxicity$NA
+100166832$10016683$Hepatotoxicity$NA
+100166832$10016683$Hypersensitivity$NA
+100166832$10016683$Maternal exposure during pregnancy$NA
+100166832$10016683$Nephropathy toxic$NA
+100166832$10016683$Neurotoxicity$NA
+100166832$10016683$Toxicity to various agents$NA
+100166832$10016683$Treatment failure$NA
+100166832$10016683$Virologic failure$NA

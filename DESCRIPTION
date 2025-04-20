@@ -1,20 +1,21 @@
 Package: extractFAERS
 Title: Extract Data from FAERS Database
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Renjun Yang", role = "ctb"),
     person("Renjun", "Yang", , "rjyang@rcees.ac.cn", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-9353-5041"))
   )
-Description: Provides functions to extract and process data from the FDA Adverse Event Reporting System (FAERS). It facilitates the conversion of raw FAERS data into structured formats for analysis. See Yang et al. (2022) <doi:10.3389/fphar.2021.772768> for related information. 
+Description: Provides functions to extract and process data from the FDA Adverse Event Reporting System (FAERS). It facilitates the conversion of raw FAERS data published after 2014Q3 into structured formats for analysis. See Yang et al. (2022) <doi:10.3389/fphar.2021.772768> for related information. 
 License: Apache License (>= 2)
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 Imports: dplyr (>= 1.1.4), parallel, stringr (>= 1.5.1), utils
 NeedsCompilation: no
-Packaged: 2025-03-16 11:40:55 UTC; Administrator
+Packaged: 2025-04-20 12:58:51 UTC; Administrator
 Author: Renjun Yang [ctb],
   Renjun Yang [aut, cre] (<https://orcid.org/0000-0002-9353-5041>)
 Maintainer: Renjun Yang <rjyang@rcees.ac.cn>
+Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2025-03-18 14:40:05 UTC
+Date/Publication: 2025-04-20 13:20:02 UTC

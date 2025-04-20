@@ -1,0 +1,500 @@
+primaryid$caseid$indi_drug_seq$indi_pt
+100036412$10003641$1$Bipolar disorder
+100036412$10003641$2$Bipolar disorder
+100036412$10003641$3$Diabetes mellitus
+100036412$10003641$4$Product used for unknown indication
+100036412$10003641$5$Adverse event
+100036412$10003641$6$Prophylaxis
+100038593$10003859$1$Myelofibrosis
+100038603$10003860$4$Neck pain
+100038603$10003860$5$Gastrooesophageal reflux disease
+100038603$10003860$6$Seizure
+100039823$10003982$1$Myelofibrosis
+100039882$10003988$1$Bipolar disorder
+100039882$10003988$2$Anxiety
+100039973$10003997$1$Myelofibrosis
+100040674$10004067$1$Acne
+100040674$10004067$3$Acne
+100040674$10004067$4$Vitamin supplementation
+100041104$10004110$1$Relapsing-remitting multiple sclerosis
+100041203$10004120$1$Chronic myeloid leukaemia
+100041203$10004120$2$Prophylaxis
+100041203$10004120$3$Prophylaxis
+100041203$10004120$4$Hypertension
+100041203$10004120$5$Hypertension
+100041203$10004120$6$Arteriosclerosis
+100041203$10004120$7$Diabetes mellitus
+100041412$10004141$1$Gastric cancer
+100042853$10004285$1$Multiple sclerosis
+100042853$10004285$2$Headache
+100042853$10004285$3$Product used for unknown indication
+100042853$10004285$4$Cough
+100042853$10004285$5$Product used for unknown indication
+100042853$10004285$6$Product used for unknown indication
+100042853$10004285$7$Pain
+100042853$10004285$8$Product used for unknown indication
+100042853$10004285$9$Product used for unknown indication
+100042853$10004285$10$Product used for unknown indication
+100042853$10004285$11$Product used for unknown indication
+100042853$10004285$12$Product used for unknown indication
+100042853$10004285$13$Product used for unknown indication
+100042853$10004285$14$Product used for unknown indication
+100043563$10004356$1$HIV infection
+100046723$10004672$1$Paroxysmal nocturnal haemoglobinuria
+100046723$10004672$2$Product used for unknown indication
+100047183$10004718$1$Asthma
+100049264$10004926$1$Contraception
+100052073$10005207$1$Myelofibrosis
+100052233$10005223$1$Crohn's disease
+100052233$10005223$2$Diabetes mellitus
+100052233$10005223$3$Product used for unknown indication
+100052233$10005223$4$Diabetes mellitus
+100052233$10005223$5$Hypertension
+100052233$10005223$6$Pain
+100052233$10005223$7$Pain
+100052233$10005223$8$Product used for unknown indication
+100052233$10005223$9$Pain
+100052233$10005223$10$Muscle spasms
+100052233$10005223$11$Product used for unknown indication
+100052233$10005223$12$Anxiety
+100052233$10005223$14$Muscle spasms
+100053783$10005378$1$SLE arthritis
+100053783$10005378$6$SLE arthritis
+100053783$10005378$10$SLE arthritis
+100053783$10005378$13$Systemic lupus erythematosus
+100053783$10005378$15$Immunosuppression
+100053783$10005378$17$Hypersensitivity
+100053783$10005378$18$Nausea
+100053783$10005378$19$Pain
+100053783$10005378$20$Hypertension
+100053783$10005378$22$Hypertension
+100053783$10005378$23$Hypertension
+100053783$10005378$25$Pain
+100053783$10005378$26$Hypertension
+100054492$10005449$1$Product used for unknown indication
+100055442$10005544$1$Rheumatoid arthritis
+100055442$10005544$3$Rheumatoid arthritis
+100059053$10005905$2$Hypothyroidism
+100059802$10005980$2$Chronic spontaneous urticaria
+100059802$10005980$3$Chronic spontaneous urticaria
+100059802$10005980$4$Chronic spontaneous urticaria
+100059802$10005980$5$Chronic spontaneous urticaria
+100059802$10005980$6$Chronic spontaneous urticaria
+100059802$10005980$7$Chronic spontaneous urticaria
+100060582$10006058$1$Cerebrovascular accident prophylaxis
+100060582$10006058$2$Atrial fibrillation
+100062032$10006203$1$Lung neoplasm malignant
+100062032$10006203$2$Lung neoplasm malignant
+100062032$10006203$3$Product used for unknown indication
+100063443$10006344$1$Aplastic anaemia
+100063614$10006361$1$Low density lipoprotein increased
+100063614$10006361$2$Cardiovascular event prophylaxis
+100063614$10006361$3$Blood cholesterol increased
+100063614$10006361$4$Blood triglycerides increased
+100063614$10006361$5$Back pain
+100063614$10006361$6$Thyroid disorder
+100063625$10006362$1$Low density lipoprotein increased
+100063625$10006362$2$Cardiovascular event prophylaxis
+100063625$10006362$3$Blood triglycerides increased
+100063625$10006362$4$Blood cholesterol increased
+100063674$10006367$1$Low density lipoprotein increased
+100063674$10006367$2$Cardiovascular event prophylaxis
+100063674$10006367$3$Anticoagulant therapy
+100063674$10006367$4$Hormone replacement therapy
+100063674$10006367$5$Gastrooesophageal reflux disease
+100063674$10006367$6$Hypertension
+100063674$10006367$8$Hypertension
+100063744$10006374$1$Low density lipoprotein increased
+100063744$10006374$2$Cardiovascular event prophylaxis
+100063744$10006374$3$Blood cholesterol increased
+100063744$10006374$4$Blood triglycerides increased
+100063765$10006376$1$Low density lipoprotein increased
+100063765$10006376$2$Cardiovascular event prophylaxis
+100063765$10006376$3$Blood cholesterol increased
+100063765$10006376$4$Blood triglycerides increased
+100063855$10006385$1$Low density lipoprotein increased
+100063855$10006385$2$Cardiovascular event prophylaxis
+100063855$10006385$3$Blood cholesterol increased
+100063855$10006385$4$Blood triglycerides increased
+100063926$10006392$1$Low density lipoprotein increased
+100063926$10006392$2$Cardiovascular event prophylaxis
+100063926$10006392$3$Blood cholesterol increased
+100063926$10006392$4$Blood triglycerides increased
+100063926$10006392$5$Hypoparathyroidism
+100063926$10006392$6$Hypoparathyroidism
+100063946$10006394$1$Low density lipoprotein increased
+100063946$10006394$2$Cardiovascular event prophylaxis
+100063946$10006394$3$Blood cholesterol increased
+100063946$10006394$4$Blood triglycerides increased
+100063946$10006394$5$Routine health maintenance
+100063946$10006394$6$Anaemia
+100063946$10006394$7$Blood cholesterol
+100063946$10006394$8$Blood cholesterol
+100064314$10006431$1$Low density lipoprotein increased
+100064314$10006431$2$Cardiovascular event prophylaxis
+100064314$10006431$3$Blood cholesterol increased
+100064314$10006431$4$Headache
+100064314$10006431$5$Neuralgia
+100064314$10006431$6$Constipation
+100064314$10006431$7$Hypersensitivity
+100064314$10006431$8$Immune enhancement therapy
+100064328$10006432$1$Atrial fibrillation
+100064328$10006432$2$Cerebrovascular accident prophylaxis
+100064328$10006432$3$Prophylaxis
+100064328$10006432$4$Product used for unknown indication
+100064328$10006432$5$Product used for unknown indication
+100064328$10006432$6$Prophylaxis
+100064803$10006480$1$Product used for unknown indication
+100064803$10006480$2$Product used for unknown indication
+100064803$10006480$3$Product used for unknown indication
+100064803$10006480$4$Product used for unknown indication
+100064835$10006483$1$Low density lipoprotein increased
+100064835$10006483$2$Cardiovascular event prophylaxis
+100064835$10006483$3$Blood triglycerides increased
+100064835$10006483$4$Blood cholesterol increased
+100064844$10006484$1$Low density lipoprotein increased
+100064844$10006484$2$Cardiovascular event prophylaxis
+100064844$10006484$3$Blood cholesterol abnormal
+100064844$10006484$4$Thyroid disorder
+100064844$10006484$5$Depression
+100064844$10006484$6$Depression
+100064844$10006484$7$Hysterectomy
+100064865$10006486$1$Low density lipoprotein increased
+100064865$10006486$2$Cardiovascular event prophylaxis
+100064865$10006486$3$Blood cholesterol increased
+100064865$10006486$4$Blood triglycerides increased
+100064865$10006486$5$Prophylaxis
+100064874$10006487$1$Low density lipoprotein increased
+100064874$10006487$2$Cardiovascular event prophylaxis
+100064874$10006487$3$Blood cholesterol increased
+100064874$10006487$4$Coronary artery disease
+100064893$10006489$1$Low density lipoprotein increased
+100064893$10006489$2$Cardiovascular event prophylaxis
+100064893$10006489$3$Blood cholesterol increased
+100064893$10006489$4$Blood triglycerides increased
+100064893$10006489$5$Blood cholesterol abnormal
+100064893$10006489$6$Blood cholesterol increased
+100064893$10006489$7$Cardiovascular event prophylaxis
+100064893$10006489$8$Blood triglycerides increased
+100064904$10006490$1$Low density lipoprotein increased
+100064904$10006490$2$Cardiovascular event prophylaxis
+100064904$10006490$3$Blood cholesterol increased
+100064904$10006490$4$Blood triglycerides increased
+100064915$10006491$1$Low density lipoprotein increased
+100064915$10006491$2$Cardiovascular event prophylaxis
+100064915$10006491$3$Blood cholesterol increased
+100064915$10006491$4$Blood triglycerides increased
+100065505$10006550$1$Low density lipoprotein increased
+100065505$10006550$2$Cardiovascular event prophylaxis
+100065505$10006550$3$Blood cholesterol increased
+100065505$10006550$4$Blood triglycerides increased
+100065535$10006553$1$Low density lipoprotein increased
+100065535$10006553$2$Cardiovascular event prophylaxis
+100065535$10006553$3$Blood cholesterol increased
+100065535$10006553$4$Blood triglycerides increased
+100065535$10006553$5$Routine health maintenance
+100065535$10006553$6$Macular degeneration
+100065605$10006560$1$Low density lipoprotein increased
+100065605$10006560$2$Cardiovascular event prophylaxis
+100065605$10006560$3$Blood cholesterol increased
+100065605$10006560$4$Blood triglycerides increased
+100065615$10006561$1$Low density lipoprotein increased
+100065615$10006561$2$Cardiovascular event prophylaxis
+100065615$10006561$3$Blood cholesterol increased
+100065635$10006563$1$Low density lipoprotein increased
+100065635$10006563$2$Cardiovascular event prophylaxis
+100065635$10006563$3$Blood cholesterol increased
+100065635$10006563$4$Blood triglycerides increased
+100065645$10006564$1$Low density lipoprotein increased
+100065645$10006564$2$Cardiovascular event prophylaxis
+100065645$10006564$3$Blood cholesterol increased
+100065645$10006564$4$Cardiovascular event prophylaxis
+100065645$10006564$5$Blood triglycerides increased
+100065645$10006564$6$Blood cholesterol
+100065645$10006564$7$Blood cholesterol increased
+100065645$10006564$8$Cardiovascular event prophylaxis
+100065645$10006564$9$Blood triglycerides increased
+100065654$10006565$1$Low density lipoprotein increased
+100065654$10006565$2$Cardiovascular event prophylaxis
+100065654$10006565$3$Blood cholesterol increased
+100065654$10006565$4$Blood triglycerides increased
+100065724$10006572$1$Low density lipoprotein increased
+100065724$10006572$2$Cardiovascular event prophylaxis
+100065724$10006572$3$Blood cholesterol increased
+100065724$10006572$4$Blood triglycerides increased
+100065724$10006572$5$Chest pain
+100065724$10006572$6$Hypertonic bladder
+100065724$10006572$7$Depression
+100065724$10006572$8$Anxiety
+100065724$10006572$9$Fibromyalgia
+100065724$10006572$10$Pain
+100065724$10006572$11$Hypertension
+100065724$10006572$12$Hypertension
+100065795$10006579$1$Low density lipoprotein increased
+100065795$10006579$2$Cardiovascular event prophylaxis
+100065795$10006579$3$Blood cholesterol increased
+100065804$10006580$1$Low density lipoprotein increased
+100065804$10006580$2$Cardiovascular event prophylaxis
+100065804$10006580$3$Blood cholesterol increased
+100065804$10006580$4$Blood triglycerides increased
+100065904$10006590$1$Pulmonary arterial hypertension
+100065986$10006598$1$Crohn's disease
+100065986$10006598$2$Premedication
+100065986$10006598$3$Premedication
+100065986$10006598$4$Premedication
+100065986$10006598$6$Premedication
+100066473$10006647$1$Pain
+100071256$10007125$1$Low density lipoprotein increased
+100071256$10007125$2$Cardiovascular event prophylaxis
+100071256$10007125$3$Blood triglycerides increased
+100071256$10007125$4$Blood cholesterol increased
+100071256$10007125$5$Routine health maintenance
+100071256$10007125$6$Routine health maintenance
+100071256$10007125$7$Routine health maintenance
+1000713215$10007132$1$Barrett's oesophagus
+1000713215$10007132$2$Gastrooesophageal reflux disease
+100071423$10007142$1$Low density lipoprotein increased
+100071423$10007142$2$Cardiovascular event prophylaxis
+100071584$10007158$1$Low density lipoprotein increased
+100071584$10007158$2$Cardiovascular event prophylaxis
+100071584$10007158$3$Blood cholesterol increased
+100071584$10007158$4$Blood triglycerides increased
+100071584$10007158$5$Cardiac disorder
+100071884$10007188$1$Low density lipoprotein increased
+100071884$10007188$2$Cardiovascular event prophylaxis
+100071884$10007188$3$Blood cholesterol increased
+100071884$10007188$4$Blood triglycerides increased
+100071884$10007188$5$Blood cholesterol increased
+100071884$10007188$6$Blood triglycerides increased
+100072523$10007252$1$Multiple sclerosis
+100074446$10007444$1$Seizure
+100074446$10007444$4$Trigeminal neuralgia
+100074604$10007460$1$Low density lipoprotein increased
+100074604$10007460$2$Cardiovascular event prophylaxis
+100074604$10007460$3$Blood cholesterol abnormal
+100074774$10007477$1$Low density lipoprotein increased
+100074774$10007477$2$Cardiovascular event prophylaxis
+100074774$10007477$3$Blood cholesterol increased
+100074785$10007478$1$Low density lipoprotein increased
+100074785$10007478$2$Cardiovascular event prophylaxis
+100074785$10007478$3$Hyperlipidaemia
+100074785$10007478$4$Blood cholesterol increased
+100074785$10007478$5$Blood triglycerides increased
+100074785$10007478$6$Thyroid disorder
+100074785$10007478$7$Blood pressure
+100074785$10007478$8$Fluid retention
+100074785$10007478$9$Hot flush
+100074785$10007478$10$Blood pressure
+100074785$10007478$11$Blood cholesterol increased
+100074805$10007480$1$Low density lipoprotein increased
+100074805$10007480$2$Cardiovascular event prophylaxis
+100074805$10007480$3$Blood cholesterol increased
+100074805$10007480$4$Blood triglycerides increased
+100074874$10007487$1$Low density lipoprotein increased
+100074874$10007487$2$Cardiovascular event prophylaxis
+100074874$10007487$3$Blood cholesterol increased
+100074874$10007487$4$Blood triglycerides increased
+100074894$10007489$1$Low density lipoprotein increased
+100074894$10007489$2$Cardiovascular event prophylaxis
+100074894$10007489$3$Blood cholesterol abnormal
+100074894$10007489$4$Blood triglycerides increased
+100074894$10007489$5$Depression
+100074903$10007490$1$Low density lipoprotein increased
+100074903$10007490$2$Cardiovascular event prophylaxis
+100074903$10007490$3$Blood cholesterol increased
+100074903$10007490$4$Blood triglycerides increased
+100075074$10007507$1$Low density lipoprotein increased
+100075074$10007507$2$Cardiovascular event prophylaxis
+100075074$10007507$3$Blood cholesterol abnormal
+100075074$10007507$4$Blood triglycerides increased
+100075163$10007516$1$Low density lipoprotein increased
+100075163$10007516$2$Cardiovascular event prophylaxis
+100075163$10007516$3$Blood cholesterol increased
+100075163$10007516$4$Blood triglycerides increased
+100075275$10007527$1$Low density lipoprotein increased
+100075275$10007527$2$Cardiovascular event prophylaxis
+100075275$10007527$3$Blood cholesterol increased
+100075275$10007527$4$Asthma
+100075275$10007527$5$Asthma
+100075275$10007527$6$Asthma
+100075275$10007527$7$Asthma
+100075365$10007536$1$Low density lipoprotein increased
+100075365$10007536$2$Cardiovascular event prophylaxis
+100075365$10007536$3$Blood triglycerides increased
+100075365$10007536$4$Gastrooesophageal reflux disease
+100075385$10007538$1$Low density lipoprotein increased
+100075385$10007538$2$Cardiovascular event prophylaxis
+100075385$10007538$3$Blood cholesterol increased
+100075385$10007538$4$Blood triglycerides increased
+100075474$10007547$1$Low density lipoprotein increased
+100075474$10007547$2$Cardiovascular event prophylaxis
+100075474$10007547$3$Blood cholesterol increased
+100075474$10007547$4$Overweight
+100075474$10007547$5$Obesity
+100075474$10007547$6$Depression
+100075505$10007550$1$Low density lipoprotein increased
+100075505$10007550$2$Cardiovascular event prophylaxis
+100075505$10007550$3$Blood cholesterol increased
+100075505$10007550$4$Blood triglycerides increased
+100075505$10007550$5$Blood cholesterol increased
+100075505$10007550$7$Blood cholesterol increased
+100075664$10007566$1$Low density lipoprotein increased
+100075664$10007566$2$Cardiovascular event prophylaxis
+100075664$10007566$3$Blood cholesterol increased
+100075664$10007566$4$Blood triglycerides increased
+100075674$10007567$1$Low density lipoprotein increased
+100075674$10007567$2$Cardiovascular event prophylaxis
+100075674$10007567$3$Blood cholesterol increased
+100075674$10007567$4$Blood triglycerides increased
+100075724$10007572$1$Low density lipoprotein increased
+100075724$10007572$2$Cardiovascular event prophylaxis
+100075724$10007572$3$Blood cholesterol abnormal
+100075724$10007572$4$Blood triglycerides increased
+100075774$10007577$1$Low density lipoprotein increased
+100075774$10007577$2$Cardiovascular event prophylaxis
+100075774$10007577$3$Blood cholesterol increased
+100075774$10007577$4$Blood triglycerides increased
+100075894$10007589$1$Low density lipoprotein increased
+100075894$10007589$2$Cardiovascular event prophylaxis
+100075894$10007589$3$Blood cholesterol increased
+100075894$10007589$4$Blood triglycerides increased
+100075945$10007594$1$Blood cholesterol increased
+100075945$10007594$2$Low density lipoprotein increased
+100075945$10007594$3$Cardiovascular event prophylaxis
+100075945$10007594$4$Blood cholesterol increased
+100075945$10007594$5$Blood triglycerides increased
+100075945$10007594$6$Blood cholesterol increased
+100076014$10007601$1$Low density lipoprotein increased
+100076014$10007601$2$Cardiovascular event prophylaxis
+100076014$10007601$3$Hypertension
+100076014$10007601$4$Blood cholesterol increased
+100076223$10007622$1$X-ray with contrast upper gastrointestinal tract
+100079344$10007934$1$Pain
+100079344$10007934$3$Product used for unknown indication
+100079344$10007934$4$Product used for unknown indication
+100079344$10007934$5$Product used for unknown indication
+100079344$10007934$6$Product used for unknown indication
+100079344$10007934$7$Product used for unknown indication
+100079344$10007934$8$Product used for unknown indication
+100079344$10007934$10$Product used for unknown indication
+100079344$10007934$12$Product used for unknown indication
+100079344$10007934$13$Product used for unknown indication
+100079344$10007934$14$Product used for unknown indication
+100079344$10007934$15$Product used for unknown indication
+100079344$10007934$16$Product used for unknown indication
+100079344$10007934$17$Product used for unknown indication
+100079344$10007934$18$Product used for unknown indication
+100079344$10007934$19$Product used for unknown indication
+100079344$10007934$20$Product used for unknown indication
+100079834$10007983$1$Low density lipoprotein increased
+100079834$10007983$2$Cardiovascular event prophylaxis
+100079834$10007983$3$Blood cholesterol increased
+100079843$10007984$1$Type 2 diabetes mellitus
+100080045$10008004$1$Colorectal cancer metastatic
+100080045$10008004$2$Colorectal cancer metastatic
+100080244$10008024$1$Schizophrenia, paranoid type
+100080244$10008024$26$Affective disorder
+100080244$10008024$40$Schizophrenia, paranoid type
+100080244$10008024$41$Schizophrenia, paranoid type
+100080244$10008024$42$Schizophrenia, paranoid type
+100080244$10008024$43$Schizophrenia, paranoid type
+100080244$10008024$47$Prophylaxis
+100080244$10008024$48$Schizophrenia, paranoid type
+100080244$10008024$49$Prophylaxis
+100080393$10008039$1$Low density lipoprotein increased
+100080393$10008039$2$Cardiovascular event prophylaxis
+100080393$10008039$3$Blood cholesterol increased
+100080393$10008039$4$Blood triglycerides increased
+100080393$10008039$5$Blood cholesterol increased
+100080405$10008040$1$Low density lipoprotein increased
+100080405$10008040$2$Cardiovascular event prophylaxis
+100080405$10008040$3$Hyperlipidaemia
+100080405$10008040$7$Hypersensitivity
+100080505$10008050$1$Low density lipoprotein increased
+100080505$10008050$2$Cardiovascular event prophylaxis
+100080505$10008050$3$Blood cholesterol increased
+100080505$10008050$4$Blood triglycerides increased
+100080774$10008077$1$Low density lipoprotein increased
+100080774$10008077$2$Cardiovascular event prophylaxis
+100080774$10008077$3$Blood cholesterol increased
+100080774$10008077$4$Blood triglycerides increased
+100080774$10008077$5$Blood cholesterol increased
+100080825$10008082$1$Low density lipoprotein increased
+100080825$10008082$2$Cardiovascular event prophylaxis
+100080825$10008082$3$Blood cholesterol increased
+100080825$10008082$4$Blood triglycerides increased
+100080825$10008082$5$Blood cholesterol increased
+100080825$10008082$6$Blood triglycerides increased
+100083414$10008341$1$Multiple sclerosis
+100083414$10008341$2$Trigeminal neuralgia
+100083414$10008341$3$Neuropathy peripheral
+100083414$10008341$4$Neuropathy peripheral
+100084274$10008427$1$Low density lipoprotein increased
+100084274$10008427$2$Cardiovascular event prophylaxis
+100084274$10008427$3$Blood cholesterol increased
+100084274$10008427$4$Blood triglycerides increased
+100084274$10008427$5$Hypothyroidism
+100084274$10008427$6$Hypertension
+100084274$10008427$7$Asthma
+100084274$10008427$8$Asthma
+100084274$10008427$9$Pain
+100084274$10008427$10$Arthritis
+100084274$10008427$11$Blood cholesterol increased
+100084274$10008427$12$Blood triglycerides increased
+100084773$10008477$1$Low density lipoprotein increased
+100084773$10008477$2$Cardiovascular event prophylaxis
+100084773$10008477$3$Hyperlipidaemia
+100084773$10008477$4$Blood triglycerides increased
+100084773$10008477$5$Hypertension
+100085345$10008534$1$Osteopenia
+100085345$10008534$3$Osteopenia
+100085345$10008534$4$Osteopenia
+100089032$10008903$1$Prophylaxis against transplant rejection
+100089032$10008903$2$Blood pressure abnormal
+100089032$10008903$3$Product used for unknown indication
+100093682$10009368$1$Respiratory tract infection
+100101662$10010166$1$Product used for unknown indication
+100101702$10010170$1$Myelofibrosis
+100103583$10010358$1$Rheumatoid arthritis
+100103583$10010358$2$Product used for unknown indication
+100103583$10010358$3$Product used for unknown indication
+100103583$10010358$4$Product used for unknown indication
+100103583$10010358$5$Product used for unknown indication
+100103583$10010358$6$Product used for unknown indication
+100103583$10010358$7$Product used for unknown indication
+100103583$10010358$8$Product used for unknown indication
+100103583$10010358$9$Product used for unknown indication
+100103583$10010358$10$Product used for unknown indication
+100103583$10010358$11$Product used for unknown indication
+100103583$10010358$12$Product used for unknown indication
+100103583$10010358$13$Product used for unknown indication
+100103583$10010358$14$Product used for unknown indication
+100103583$10010358$15$Product used for unknown indication
+100103583$10010358$16$Product used for unknown indication
+100103583$10010358$17$Product used for unknown indication
+100104845$10010484$1$Multiple sclerosis
+100104845$10010484$2$Multiple sclerosis
+100104845$10010484$3$Multiple sclerosis
+100106762$10010676$1$Gastrooesophageal reflux disease
+100106883$10010688$1$Asthma
+100106883$10010688$2$Asthma
+100106883$10010688$3$Hypersensitivity
+100106883$10010688$4$Blood pressure abnormal
+100106883$10010688$5$Hot flush
+100107483$10010748$1$Fabry's disease
+100107606$10010760$1$Mantle cell lymphoma
+100107606$10010760$4$Product used for unknown indication
+100107606$10010760$5$Product used for unknown indication
+100107606$10010760$6$Product used for unknown indication
+100107606$10010760$7$Product used for unknown indication
+100107606$10010760$8$Product used for unknown indication
+100107606$10010760$9$Product used for unknown indication
+100107606$10010760$10$Product used for unknown indication
+100107606$10010760$11$Product used for unknown indication
+100107606$10010760$12$Product used for unknown indication
+100107606$10010760$13$Product used for unknown indication
+100109694$10010969$1$Multiple sclerosis
+100109694$10010969$10$Pernicious anaemia
+100111102$10011110$1$Hepatitis C
+100111102$10011110$2$Hepatitis C
+100111102$10011110$3$Hepatitis C

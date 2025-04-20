@@ -36,6 +36,7 @@ A character vector containing the file paths of the processed folders
 \description{
 This function processes the FDA Adverse Event Reporting System (FAERS) data
 to extract reports where only a single drug was administered.
+Only data after 2014Q3 can be directly extracted with this package
 }
 \details{
 This package includes example data files in \code{extdata}:
