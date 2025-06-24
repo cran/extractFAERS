@@ -97,6 +97,7 @@ time_to_day_FAERS <- function(workingdir=NULL,usexistRData=FALSE,filteres=NULL) 
 
   # Assign occupation country information from the demo data to the reaction data
   allreac_prof$occr_country <- demos_prof$occr_country[match(allreac_prof$primaryid, demos_prof$primaryid)]
+  allreac_prof$age_day<-demos_prof$age_day[match(allreac_prof$primaryid, demos_prof$primaryid)]
 
   # Standardize occupation country values by replacing missing or incorrect values
   allreac_prof$occr_country[allreac_prof$occr_country == ""] <- "N.R."

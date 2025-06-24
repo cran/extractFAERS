@@ -1,6 +1,6 @@
 Package: extractFAERS
 Title: Extract Data from FAERS Database
-Version: 0.1.2
+Version: 0.1.4
 Authors@R: c(
     person("Renjun Yang", role = "ctb"),
     person("Renjun", "Yang", , "rjyang@rcees.ac.cn", role = c("aut", "cre"),
@@ -12,10 +12,9 @@ Encoding: UTF-8
 RoxygenNote: 7.3.2
 Imports: dplyr (>= 1.1.4), parallel, stringr (>= 1.5.1), utils
 NeedsCompilation: no
-Packaged: 2025-04-20 12:58:51 UTC; Administrator
+Packaged: 2025-06-08 12:09:38 UTC; Administrator
 Author: Renjun Yang [ctb],
-  Renjun Yang [aut, cre] (<https://orcid.org/0000-0002-9353-5041>)
+  Renjun Yang [aut, cre] (ORCID: <https://orcid.org/0000-0002-9353-5041>)
 Maintainer: Renjun Yang <rjyang@rcees.ac.cn>
-Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2025-04-20 13:20:02 UTC
+Date/Publication: 2025-06-24 07:50:07 UTC

@@ -96,7 +96,7 @@ filter_by_occp_FAERS <- function(workingdir = NULL, temp_dir=NULL, occpextract =
   files <- do.call(rbind, files)
 
   # Select relevant columns and remove duplicates to ensure uniqueness
-  demos <- files[c(1, 2, 4, 9, 14:20, 26, 23:25)] %>% unique()
+  demos <- files[c(1, 2, 5, 9, 14:20, 26, 23:25)] %>% unique()
 
   # Check if specified occupation types exist in the dataset
   if (!all(occpextract %in% (demos$occp_cod %>% table()))) {
@@ -146,6 +146,10 @@ filter_by_occp_FAERS <- function(workingdir = NULL, temp_dir=NULL, occpextract =
   # Select relevant columns and remove duplicates
   indexdata <- files2[, c(1, 2, 5, 6)]
   indexdata <- unique(indexdata)
+  indexdata <- indexdata %>%
+    group_by(caseid) %>%
+    slice_max(primaryid, n = 1, with_ties = FALSE) %>%
+    ungroup()
 
   # Standardize drug names: remove special characters and replace backslashes
   indexdata$prod_ai <- str_remove_all(indexdata$prod_ai, ", \\(\\+/-\\)-")  # Remove ", (+/-)-"

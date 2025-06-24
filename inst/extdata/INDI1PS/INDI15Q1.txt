@@ -1,9 +1,0 @@
-primaryid$caseid$indi_drug_seq$indi_pt
-100041104$10004110$1$Relapsing-remitting multiple sclerosis
-100041412$10004141$1$Gastric cancer
-100049264$10004926$1$Contraception
-100054492$10005449$1$Product used for unknown indication
-100065904$10006590$1$Pulmonary arterial hypertension
-100066473$10006647$1$Pain
-100072523$10007252$1$Multiple sclerosis
-100076223$10007622$1$X-ray with contrast upper gastrointestinal tract
